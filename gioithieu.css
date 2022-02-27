@@ -71,6 +71,46 @@ ul.menu_child li {
 
 }
 
-
-
-
+.text{
+    width: 1200px;
+    padding: 30px 1px 1px 30px;
+    margin: 1px 1px 1px 1px;
+}
+.text1{
+    font-size: 25px;
+    padding-left:250px ;
+    padding-bottom: 30px;
+}
+.text2{
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.text3{
+    padding-top: 30px;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.text4{
+    padding-bottom: 25px;
+    color: mediumblue;
+}
+.textbox{
+    list-style-type: circle;
+    padding-left: 0px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+.ab{
+    margin-top: 15px;
+}
+.ac{
+    margin-top: 15px;
+}
+.text6{
+    list-style-type: circle;
+    padding-left: 0px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
