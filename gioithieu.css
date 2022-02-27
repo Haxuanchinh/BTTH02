@@ -4,7 +4,8 @@
 	padding: 0;
 }
 .container {
-	max-width: 1140px;
+	padding-right: 20px;
+	max-width: 2000px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -65,11 +66,10 @@ ul.menu_child li {
 .slider-margin {
 	margin-top: 20px;
 }
-.col-2 menu img{
-	width: 30%;
-	height: 30%;
-
+div.col-8 menu{
+	padding-left: 20px;
 }
+
 
 .text{
     width: 1200px;
