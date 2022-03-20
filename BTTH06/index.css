@@ -9,8 +9,38 @@
     border-radius: 15px;
     font-family: Digital;
 }
-table{
+table {
     border: 1px solid gray;
-    
+    margin: auto;
     font-size: 50px;
+}
+@-webkit-keyframes my {
+    0% { color: red; }
+    50% { color: #fff;  }
+    100% { color: #F8CD0A;  }
+}
+@-moz-keyframes my {
+    0% { color: red;  }
+    50% { color: black;  }
+    100% { color: red;  }
+}
+@-o-keyframes my {
+    0% { color: red; }
+    50% { color: black; }
+    100% { color: red;  }
+}
+@keyframes my {
+    0% { color: red;  }
+    50% { color: black;  }
+    100% { color: red;  }
+}
+#thongbao {
+
+    background:white;
+    font-size:50px;
+    font-weight:bold;
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite;
+    -o-animation: my 700ms infinite;
+    animation: my 700ms infinite;
 }
