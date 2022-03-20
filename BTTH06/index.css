@@ -1,0 +1,11 @@
+#time{
+    background: black;
+    color: red;
+    padding: 30px;
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    margin: 30px;
+    border-radius: 15px;
+    font-family: Digital;
+}
